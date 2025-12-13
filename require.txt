@@ -1,0 +1,17 @@
+# Core LLM inference and utilities
+torch
+transformers
+accelerate
+bitsandbytes
+sentencepiece
+tqdm
+numpy
+psutil
+astunparse
+rank-bm25
+
+# Evaluation and visualization
+scipy
+pandas
+matplotlib
+seaborn
