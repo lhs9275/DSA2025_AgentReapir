@@ -20,6 +20,13 @@ build/
 *.cert
 *.json
 
+# ---- 데이터셋 JSON ----
+!all_bugs_meta_data.json
+!bugs_meta_data.json
+!defects4j_bugs_meta_data.json
+!Results/1.DataSeterAgentResult.json
+!Results/1.DataSeterAgentResult_Java.json
+
 # ---- 시스템 파일 ----
 .DS_Store
 Thumbs.db
